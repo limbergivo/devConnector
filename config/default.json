@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://ivo123:ivo123@devconnector-z2eov.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken": "token"
+}
