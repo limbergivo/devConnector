@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://ivo123:ivo123@devconnector-z2eov.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtToken": "token"
+    "jwtToken": "token",
+    "githubClientId": "f11161aa88a970ed3370",
+    "githubSecret": "ce106713f00a9af07118e9003dac339df1105f66"
 }
